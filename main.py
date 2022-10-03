@@ -11,7 +11,6 @@ for secret in file.readlines():
     secret = secret.rstrip()
     SECRETS.append(str(secret))
 
-
 SCOPE = 'playlist-read-private playlist-read-public'
 CLIENT_ID = SECRETS[0]
 USER_SECRET = SECRETS[1]
