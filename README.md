@@ -1,4 +1,4 @@
-# DiscoverNewSongsOfUrFavArtists
+# DiscoverNewSongsOfUrFavouriteArtists
 Script creates a new playlist with other songs made by artists featured in chosen playlist.
 
 It helps you with discovering new songs from your favourite genre.                  
